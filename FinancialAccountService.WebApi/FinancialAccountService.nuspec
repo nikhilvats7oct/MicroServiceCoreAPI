@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!--Unique name of the package-->
+    <id>FinancialAccountService</id>
+    <!--Version. Leave as 1.0.0. TeamCity will change the version number and override this value-->
+    <version>1.0.0</version>
+    <authors>Lowell</authors>
+    <!--Friendly description of the package-->
+    <description>Financial Account Service</description>
+    <language>en-GB</language>
+  </metadata>
+  <!--Specify which files are to be included and where.  Here, the $configuration$ variable is passed
+  from the Nuget builder, and related to the configuration of the build (debug, release, etc.).
+  The line below:
+  1. Include all files (except deploy.ps1) in the lib folder within the nuget package
+  2. Add the deploy.ps1 to the root of the nuget package.-->
+  <files>
+    <file src="bin\release\netcoreapp2.2\win10-x64\publish\**\*.*"/>
+    <file src="*Deploy.ps1"/>
+  </files>
+</package>

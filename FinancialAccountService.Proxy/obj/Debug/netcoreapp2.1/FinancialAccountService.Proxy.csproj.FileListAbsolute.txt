@@ -1,0 +1,11 @@
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Proxy\bin\Debug\netcoreapp2.1\FinancialAccountService.Proxy.deps.json
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Proxy\bin\Debug\netcoreapp2.1\FinancialAccountService.Proxy.dll
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Proxy\bin\Debug\netcoreapp2.1\FinancialAccountService.Proxy.pdb
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Proxy\bin\Debug\netcoreapp2.1\FinancialAccountService.Models.dll
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Proxy\bin\Debug\netcoreapp2.1\FinancialAccountService.Models.pdb
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Proxy\obj\Debug\netcoreapp2.1\FinancialAccountService.Proxy.csprojAssemblyReference.cache
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Proxy\obj\Debug\netcoreapp2.1\FinancialAccountService.Proxy.AssemblyInfoInputs.cache
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Proxy\obj\Debug\netcoreapp2.1\FinancialAccountService.Proxy.AssemblyInfo.cs
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Proxy\obj\Debug\netcoreapp2.1\FinancialAccountService.Proxy.csproj.CopyComplete
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Proxy\obj\Debug\netcoreapp2.1\FinancialAccountService.Proxy.dll
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Proxy\obj\Debug\netcoreapp2.1\FinancialAccountService.Proxy.pdb

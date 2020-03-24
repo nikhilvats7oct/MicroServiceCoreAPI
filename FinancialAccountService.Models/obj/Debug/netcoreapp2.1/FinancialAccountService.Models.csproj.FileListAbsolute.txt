@@ -1,0 +1,7 @@
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Models\bin\Debug\netcoreapp2.1\FinancialAccountService.Models.deps.json
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Models\bin\Debug\netcoreapp2.1\FinancialAccountService.Models.dll
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Models\bin\Debug\netcoreapp2.1\FinancialAccountService.Models.pdb
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Models\obj\Debug\netcoreapp2.1\FinancialAccountService.Models.AssemblyInfoInputs.cache
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Models\obj\Debug\netcoreapp2.1\FinancialAccountService.Models.AssemblyInfo.cs
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Models\obj\Debug\netcoreapp2.1\FinancialAccountService.Models.dll
+C:\Source\Verison Update\Fin Account\Source\FinancialAccountService\FinancialAccountService.Models\obj\Debug\netcoreapp2.1\FinancialAccountService.Models.pdb
